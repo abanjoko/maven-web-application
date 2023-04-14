@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.224.153.177:8081/repository/tesla-release/</url>
+	      <url>http://18.216.134.73:8081/repository/tesla-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.224.153.177:8081/repository/tesla-snapshot/</url>
+	      <url>http://18.216.134.73:8081/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>paypalfc</finalName>
+		<finalName>tesla_2_testc</finalName>
 		
 		<plugins>
 			<plugin>

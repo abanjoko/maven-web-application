@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla_2_testc</finalName>
+		<finalName>eagles-420-group</finalName>
 		
 		<plugins>
 			<plugin>
